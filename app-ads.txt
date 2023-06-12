@@ -1,1 +1,2 @@
 yandex.com, d32bb0acaa8b8673bd9122d2b7696112, DIRECT
+yandex.com, 100024770, DIRECT
